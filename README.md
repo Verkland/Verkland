@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Verkland
 - 👀 I’m interested in climate change solutions
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently learning computer science, maths and physics
 - 💞️ I’m looking to collaborate on climate tech
 - 📫 Hit me up on Twitter @john_verkland
 
